@@ -1,0 +1,145 @@
+
+.stopFloat{    
+    clear: both;
+}
+
+.alinharElementosAEsquerda{
+    float: left;
+  
+}
+
+.alinharElementosADireita{
+    border: 7px;
+    border-color:  rgb(37, 37, 37);
+    border-style: ridge;
+    margin-left: 50px;
+    margin-bottom: 15px;
+    margin-right: 15px;
+    float: right;
+}
+
+.alinharTextoADireita{
+    text-align: justify;
+
+}
+
+.alinharTextoAEsquerda{
+    margin-left: 15px;
+    text-align: justify;
+}
+
+body {
+    background-image: url(https://get.wallhere.com/photo/science-pattern-golden-ratio-mathematics-minimalism-Fibonacci-sequence-blue-background-square-1365111.jpg); background-repeat: no-repeat; background-size: 100% 100%; 
+
+}
+
+.secao{
+    margin: 50px 100px 50px 100px;
+    font-size: 18px;
+    font-family: 'Balsamiq Sans';
+    color:black;
+    padding: 15px;
+}
+
+header {
+    height: 400px;
+    background-color: black;
+}
+.cabecalio{background-size: cover;
+    background-attachment: fixed;
+	position: relative;
+	overflow: hidden;
+	border-radius: 0 0 85% 85% / 30%;
+}
+
+h1{
+    font-size: 40px;
+    font-family:cursive;
+    text-align: center;
+    margin-bottom: 20px;
+    text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+    color: yellow;
+    padding-bottom: 20px;
+    margin-top: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#matemente {
+    width: 100%;
+    height: 300px;
+}
+
+nav ul{ 
+    box-sizing: border-box;
+    padding: 0;
+    list-style-type: none;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+nav ul li a:hover{
+    cursor:pointer;
+    color: purple;
+    border-bottom: 3px solid white;
+}
+
+#nome{
+    margin-left: 20%;
+    margin-top: 30px;
+    height: 30px;
+    width: 500px;
+    border: 3px solid black;
+}
+
+#idade{
+    margin-top: 30px;
+    height: 30px;
+    width: 200px;
+    border: 3px solid black;
+}
+
+#botao{
+    height: 30px;
+    width: 60px;
+    border: 3px solid black;
+    background-color: gray;
+    color: white;
+    transition-duration: 0.5s;
+}
+
+#botao:hover{
+    cursor: pointer;
+    background-color: purple;
+    color: black;
+}
+
+.instagram{
+    width: 50px;
+    height: 50px;
+}
+footer{
+    margin: 2px;
+    padding: 3px;
+    background-color: #242323;
+    border-top: 2px solid #181817;
+    text-align: center;
+    clear: both;
+}
+#paragrafo{
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+}
+
+mark{ color: white;
+    background-color: rgb(37, 37, 37);
+}
+
+strong {color:rgb(252, 5, 5);
+text-decoration: underline black 2px;}
+

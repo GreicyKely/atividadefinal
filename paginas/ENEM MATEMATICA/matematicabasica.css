@@ -1,0 +1,153 @@
+
+.alinharElementosADireita{
+    border: 7px;
+    border-color:  rgb(37, 37, 37);
+    border-style: ridge;
+    margin-bottom: 10px;
+    float: right;
+    padding: 10px;
+     background-image: url(https://i.pinimg.com/236x/39/a8/33/39a8334afdf4e58c8f6061dbc8a06d47.jpg?nii=t); background-repeat: no-repeat; background-size: 100% 100%;
+
+     
+    
+}
+
+#textoCentro{
+    margin-left: 180px; 
+    margin-bottom: 30px;
+    font-size: 30px; 
+}
+
+.alinharTextoAEsquerda{
+    margin-left:50px;
+    text-align: justify;
+    width: 70%;
+    margin-top: 30px;
+
+}
+
+body{
+    background-image: url(https://i.ytimg.com/vi/8Fxl2p3AWj0/maxresdefault.jpg); background-repeat: no-repeat; background-size: 100% 100%; 
+    margin: 20px;
+    font-family: cursive;
+}
+
+#botao{
+    height: 40px;
+    width: 80px;
+    border: 3px solid black;
+    background-color: gray;
+    color: white;
+    transition-duration: 0.5s;
+    font-size: 20px;
+    margin-left: 50%;
+    margin-bottom: 50px;
+}
+
+#botao:hover{
+    cursor: pointer;
+    background-color: purple;
+    color: black;
+}
+
+footer{
+    margin: 2px;
+    padding: 3px;
+    background-color: rgb(37, 37, 37);
+    border-top: 2px solid #181817;
+    text-align: center;
+    clear: both;
+
+}
+.cabecalio{
+    background-size: cover;
+    background-attachment: fixed;
+	position: relative;
+	overflow: hidden;
+	border-radius: 0 0 85% 85% / 10%;
+}
+
+header {
+  
+    height: 250px;  
+  
+}
+
+h1{
+    font-size: 40px;
+    font-family:cursive;
+    text-align: center;
+    text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+    color: yellow;
+    padding-bottom: 20px;
+    margin-top: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+h2{
+    margin-top: -90px;
+    padding-top:0%;
+    text-align: center;
+    font-family: cursive;
+}
+
+h3 {
+    color: blue;
+}
+
+h4{ 
+    text-decoration: underline blue;
+}
+
+.instagram{
+    width: 50px;
+    height: 50px;
+}
+
+mark{ color: white;
+    background-color: rgb(37, 37, 37);
+}
+
+#matemente {
+    width: 100%;
+    height: 250px;
+}
+
+
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+ul li a:hover{
+    cursor:pointer;
+    color: blue;
+    border-bottom: 3px solid white;
+}
+
+#paragrafo{
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+}
+
+.secao{
+    margin: 100px;
+    font-size: 18px;
+    font-family: 'Balsamiq Sans';
+    color:black;
+    padding: 15px;
+}
+
+.stopFloat{    
+    clear: both;
+}
+
+#topico{
+    margin-left:50px;
+}
+
+
+.video{ 
+    padding: 20px;  
+       
+}
